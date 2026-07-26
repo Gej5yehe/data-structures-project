@@ -1,0 +1,13 @@
+# compiled binaries
+*.exe
+*.o
+*.out
+
+# VS Code settings
+.vscode/
+
+# editor temp files
+.sixth/
+
+# PDF assignment files
+*.pdf
